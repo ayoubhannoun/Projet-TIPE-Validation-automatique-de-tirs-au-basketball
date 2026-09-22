@@ -12,7 +12,9 @@ l'anneau, angle d'entrée, phase de descente).
 
 ## Lancer le code
 pip install numpy matplotlib nba_api
+
 python simulation_basketball.py
+
 python experience_NBA_TIPE.py
 
 ## Limites
